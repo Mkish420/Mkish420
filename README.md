@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mkish420
-- 👀 I’m interested in computer software 
-- 🌱 I’m currently learning cs50x
-- 💞️ I’m looking to collaborate on python 
+- 👀 I’m interested in Front End Web Development. 
+- 🌱 I’m currently learning cs50x, full stack web dev bootcamp.
+- 💞️ I’m looking to collaborate on python,html,css,js  
 - 📫 How to reach me GitHub 
 
 <!---
